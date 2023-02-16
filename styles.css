@@ -5,9 +5,9 @@ main.accio#job{
     height: 150px;
     background-color: black;
 }
-
-p.hello-accio{
-    color: white;
-    margin-left: 32px;
-    padding: 10px;
+.hello-accio{
+	 color: white;
+          margin-left: 32px ;
+          padding : 10px;
 }
+
